@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/ianaldrighetti/corporate-carpooling/issues"
   },
-  "homepage": "https://github.com/ianaldrighetti/corporate-carpooling"
+  "homepage": "https://github.com/ianaldrighetti/corporate-carpooling",
+  "dependencies": {
+    "restify": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-typescript": "^2.7.3"
+  }
 }
