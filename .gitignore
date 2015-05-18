@@ -20,3 +20,4 @@ node_modules
 Thumbs.db
 
 # App specific ignore rules
+built/
