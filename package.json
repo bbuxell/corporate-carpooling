@@ -24,6 +24,9 @@
   },
   "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-debug": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-tslint": "^3.0.1-beta",
     "gulp-typescript": "^2.7.3"
   }
 }
